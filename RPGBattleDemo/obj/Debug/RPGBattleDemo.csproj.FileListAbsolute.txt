@@ -1,0 +1,9 @@
+c:\users\smartroom\documents\visual studio 2012\Projects\RPGBattleDemo\RPGBattleDemo\bin\Debug\RPGBattleDemo.exe.config
+c:\users\smartroom\documents\visual studio 2012\Projects\RPGBattleDemo\RPGBattleDemo\obj\Debug\RPGBattleDemo.csprojResolveAssemblyReference.cache
+c:\users\smartroom\documents\visual studio 2012\Projects\RPGBattleDemo\RPGBattleDemo\obj\Debug\RPGBattleDemo.FrmBattle.resources
+c:\users\smartroom\documents\visual studio 2012\Projects\RPGBattleDemo\RPGBattleDemo\obj\Debug\RPGBattleDemo.Properties.Resources.resources
+c:\users\smartroom\documents\visual studio 2012\Projects\RPGBattleDemo\RPGBattleDemo\obj\Debug\RPGBattleDemo.csproj.GenerateResource.Cache
+c:\users\smartroom\documents\visual studio 2012\Projects\RPGBattleDemo\RPGBattleDemo\bin\Debug\RPGBattleDemo.exe
+c:\users\smartroom\documents\visual studio 2012\Projects\RPGBattleDemo\RPGBattleDemo\bin\Debug\RPGBattleDemo.pdb
+c:\users\smartroom\documents\visual studio 2012\Projects\RPGBattleDemo\RPGBattleDemo\obj\Debug\RPGBattleDemo.exe
+c:\users\smartroom\documents\visual studio 2012\Projects\RPGBattleDemo\RPGBattleDemo\obj\Debug\RPGBattleDemo.pdb
